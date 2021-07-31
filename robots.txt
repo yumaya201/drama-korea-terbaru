@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drama-korea-terbaru.herokuapp.com/host-https-drakorindo.asia/sitemap.xml
